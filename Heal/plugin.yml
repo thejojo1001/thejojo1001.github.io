@@ -1,0 +1,7 @@
+name: Heal
+main: io.github.thejojo1001.HealPlugin
+version: 1.0
+commands:
+   heal:
+      description: Will heal the player.
+      usage: /<command>
